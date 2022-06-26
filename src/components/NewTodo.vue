@@ -73,7 +73,7 @@ export default {
   margin: auto;
   z-index: -2;
   margin: auto ;
-  background: coral;
+  background: rgb(20, 139, 255);
   border-radius: 20px;
   height: 96%;
   width: 100%;
@@ -124,7 +124,7 @@ export default {
     color: rgb(60, 60, 60);
     width: 75%;
     margin-left: 4%;
-    border-radius: 20px;
+    border-radius: 10px;
     border: 1px lightslategray solid;
     padding-top: 10px;
     padding-bottom: 10px;;

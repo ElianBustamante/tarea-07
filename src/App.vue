@@ -21,13 +21,12 @@
   padding: 0;
   display: inline;
   color: grey;
-  text-decoration: underline;
-  text-decoration-color: rgb(39, 170, 126);
   text-underline-offset: 4px;
 }
 
 .nav h2{
   margin-top: 50px;
+  color: rgb(13, 67, 118);
 }
 
 </style>
